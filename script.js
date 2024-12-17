@@ -1,9 +1,8 @@
 function descargarContacto() {
     const vcardData = `BEGIN:VCARD
 VERSION:3.0
-FN:Patricia Gutierrez
-TEL: +57 3017908389
-NOTE: Cartujana
+FN:SKN Accesorios
+TEL: +57 3116970799
 END:VCARD`;
 
     const blob = new Blob([vcardData], { type: 'text/vcard' });
