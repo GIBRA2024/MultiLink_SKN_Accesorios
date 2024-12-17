@@ -12,30 +12,30 @@ body {
     background-image: url('');
     background-size: cover;
     background-position: center;
-    background-color: white;
+    background-color: #b38963;
     border-radius: 10px;
     padding: 20px;
     text-align: center;
     width: 450px;
-    height: 680px;
+    height: 760px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .profile-pic {
     width: auto;
-    height: 150px;
+    height: 190px;
     object-fit: cover;
-    margin-bottom: 10px;
+    margin-bottom: 25px;
 }
 
-h2, h3 {
-    color: #19413f;
+h4 {
+    color: #F5F0DC;
     margin: 10px 0;
     margin-bottom: 20px;
 }
 
 p {
-    color: #173356;
+    color: #F5F0DC;
     font-size: 14px;
 }
 
@@ -46,8 +46,8 @@ p {
 .social-buttons a {
     display: block;
     text-decoration: none;
-    color: white;
-    background-color: #19413f;
+    color: #b38963;
+    background-color: #F5F0DC;
     padding: 15px;
     border-radius: 5px;
     transition: background-color 0.3s;
@@ -65,7 +65,7 @@ p {
 }
 
 footer {
-    margin: 200px 0;
+    margin: 180px 0;
     text-align: center;
     padding: 5px;
     border-radius: 5px;
@@ -85,18 +85,18 @@ button {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
-    background-color: #19413f;
-    color: white;
+    background-color: #F5F0DC;
+    color: #b38963;
     border: none;
     border-radius: 5px;
 }
 
 .link-footer {
     text-decoration: none;
-    color: #19413f;
+    color: #F5F0DC;
 }
 
 
 .link-footer:hover {
-    color: #19413f;
+    color: #F5F0DC;
 }
